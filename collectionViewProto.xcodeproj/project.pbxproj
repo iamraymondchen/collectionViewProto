@@ -412,6 +412,7 @@
 				EE96196E19CF61E100E5DF83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EE96196F19CF61E100E5DF83 /* Build configuration list for PBXNativeTarget "collectionViewProtoTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				EE96197119CF61E100E5DF83 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
